@@ -103,7 +103,7 @@ line-height: 1.5;
 .header{
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)),
-    url('Fast-food/ressource/kelly-visel-MH_lBTvkvPM-unsplash.jpg
+    url('ressource/kelly-visel-MH_lBTvkvPM-unsplash.jpg
 ') center/cover no-repeat fixed;
     margin-top: auto;
 }
